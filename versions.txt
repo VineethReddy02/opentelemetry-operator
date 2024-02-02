@@ -5,10 +5,10 @@
 opentelemetry-collector=0.92.0
 
 # Represents the current release of the OpenTelemetry Operator.
-operator=0.92.1
+operator=0.93.0
 
 # Represents the current release of the Target Allocator.
-targetallocator=0.92.0
+targetallocator=0.93.0
 
 # Represents the current release of the Operator OpAMP Bridge.
 operator-opamp-bridge=0.92.0
